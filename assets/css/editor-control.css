@@ -1,0 +1,24 @@
+/* latin */
+@font-face {
+  font-family: 'BalooBhaijaan';
+  font-style: normal;
+  font-weight: 400;
+  font-display: swap;
+  src: local('BalooBhaijaan Regular'), local('BalooBhaijaan-Regular'), url('fonts/BalooBhaijaan-Regular.woff2') format('woff2');
+}
+
+@font-face {
+  font-family: 'Scheherazade';
+  font-style: normal;
+  font-weight: 400;
+  font-display: swap;
+  src: local('ScheherazadeRegOT'), local('ScheherazadeRegOT-Regular'), url('fonts/ScheherazadeRegOT.woff2') format('woff2');
+}
+
+@font-face {
+  font-family: 'Jomhuria';
+  font-style: normal;
+  font-weight: 400;
+  font-display: swap;
+  src: local('Jomhuria-Regular'), local('Jomhuria-Regular'), url('fonts/Jomhuria-Regular.woff2') format('woff2');
+}
